@@ -62,7 +62,7 @@ public class GravityObject extends LevelObject
         
         position = pos;
         rotation = new Vector3(0f, 0f, 0f);
-        scale = new Vector3(1f, 1f, 1f);
+        scale = new Vector3(2.5f, 2.5f, 2.5f);
         
         data.put("name", name);
         data.put("pos_x", position.x); data.put("pos_y", position.y); data.put("pos_z", position.z);
