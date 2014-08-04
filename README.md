@@ -1,5 +1,4 @@
 #Whitehole
-=========
 
 ##What is Whitehole?
 Whitehole is a 3D Level Editor for Super Mario Galaxy 1/2 made by StapleButter, with help from Dirbaio, Ninjifox, and others.
